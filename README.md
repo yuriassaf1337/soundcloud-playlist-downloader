@@ -23,6 +23,8 @@
 
 - python 3.6 or higher  
 - `pip` package manager  
+- **[ffmpeg](https://www.gyan.dev/ffmpeg/builds/)** (needs to be installed manually)  
+- **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**
 
 ---
 
