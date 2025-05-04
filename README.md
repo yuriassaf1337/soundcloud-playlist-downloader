@@ -7,6 +7,9 @@
 <p align="center">
   <strong>python-based tool to download soundcloud playlists or individual tracks (public or private)</strong>
 </p>
+<p align="center">
+  <img src="helper/ex.png" width="550" alt="App Icon">
+</p>
 
 ## 📌 features
 
@@ -23,7 +26,7 @@
 
 - python 3.6 or higher  
 - `pip` package manager  
-- **[ffmpeg](https://www.gyan.dev/ffmpeg/builds/)** (needs to be installed manually)  
+- **[ffmpeg](https://www.gyan.dev/ffmpeg/builds/)** - needs to be installed and added to system path manually
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**
 
 ---
